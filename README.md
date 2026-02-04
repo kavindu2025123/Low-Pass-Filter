@@ -1,9 +1,3 @@
-Nice — I’ll give you a **clean, professional GitHub README.md** that matches your experiment, looks academic, and is easy for others to understand (and good for your CV too).
-
-You can directly copy this into a file named **README.md** in your GitHub repo.
-
----
-
 # 📡 Comparative Analysis of Low-Pass Filter Topologies Using Impulse Response & FFT
 
 ## 📖 Overview
